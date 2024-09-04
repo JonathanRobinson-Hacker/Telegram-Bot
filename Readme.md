@@ -30,11 +30,9 @@ Este es un bot de Telegram diseñado para solicitar una contraseña al usuario y
    ```
 
 3. **Configurar el archivo `config.json`**:
-   Crea un archivo `config.json` en el mismo directorio que tu script de Python. Este archivo debe contener la siguiente estructura:
-
-   Reemplaza `"Digital Chaos, Our Order"`, `"Acceso concedido."` y `"Otro mensaje aquí."` con la contraseña y los mensajes que prefieras.
-
-4. **Modificar el script del bot**:
+   Crea un archivo `config.json` en el mismo directorio que tu script de Python.
+   
+5. **Modificar el script del bot**:
    Abre el archivo `bot.py` y reemplaza `YOUR_TOKEN` con el token de tu bot de Telegram proporcionado por BotFather.
 
 ## Uso
